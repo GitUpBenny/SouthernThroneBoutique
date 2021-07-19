@@ -346,7 +346,9 @@
   "date_formats": {
     "month_day_year": "%b %d, %Y"
   },
-  "custom_services": {
-    "description": "Thank you for interest in Southern Throne Custom Services. Please read our custom order policy before completing this form."
+  "customizations": {
+    "custom_services":{
+      "description": "Thank you for interest in Southern Throne Custom Services. Please read our custom order policy before completing this form."
+    }
   }
 }
